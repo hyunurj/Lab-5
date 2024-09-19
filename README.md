@@ -12,7 +12,7 @@
 ---
 ### Pipelines
 - To feed the output of one command into another command, use "|"
-- 
+
 ### Expansion
 - Special characters expand in meaning, depending on their use in shell commands
 
@@ -47,5 +47,5 @@
 - *-v:* Invert the match
 - *-n:* Display line numbers along with matching lines
 - *-r:* Recursive search
-- 
+
 
