@@ -22,7 +22,7 @@
 ### Permissions
 - Files and directories have permissions for owner, group, and others. The chmod command is used to modify these permissions
 
-#### Superuser
+### Superuser
 - Perform administrative tasks using "sudo"
 
 ### Text Editors
