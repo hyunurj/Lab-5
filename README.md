@@ -39,9 +39,8 @@
 
 ### curl
 - Fetch, upload, and manage data over the internet
-- 
-### grep
-- Used for searching text within files
+
+### grep (*Used for searching text within files*)
 #### **Common Options:**
 - *-i:* Case-insensitive search
 - *-v:* Invert the match
